@@ -50,4 +50,3 @@ Responds to user queries using RAG.
 
 ---
 
-**SmartDoc Insight** - Enhancing document interaction and knowledge extraction through advanced NLP techniques.
